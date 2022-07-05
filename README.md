@@ -10,16 +10,16 @@
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/vineet664/vidcomppro/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
   
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/vineet664/vidcomppro/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
-`Telegran Channel` - DroneBots
-<p><a href="https://t.me/DroneBots"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
+`Telegran Channel` - @mr_modd
+<p><a href="https://t.me/mr_modd"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
 
 # Public branch
 To use it for your channel,Has forcesub, Database, LOG channel and ACCESS channel(To spy users).
@@ -64,7 +64,7 @@ AUTH_USERS COMMANDS:
   
 Deploy your own bot on `heroku`
 
-`Warning` - There are two different branches available, go to [main](https://github.com/vasusen-code/VIDEOconvertor/tree/main) branch if you need bot for your `personal` needs.
+`Warning` - There are 2 different branches available, go to [main](https://github.com/vineet664/vidcomppro/tree/main) branch if you need bot for your `personal` use.
   
 `Fork and Click on Deploy in your fork`
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
